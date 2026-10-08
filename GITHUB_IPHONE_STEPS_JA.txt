@@ -1,0 +1,7 @@
+GitHub投稿手順（あとで使う）
+1. 公開用ZIPをiPhoneの「ファイル」に保存して解凍。
+2. Safariで github.com にサインインし、新規公開リポジトリを作成。例: LES-LJ38-verification
+3. Add file > Upload files で公開用フォルダ内の4種類のファイルを選択（README、verify、R5/R13座標、SHA256SUMS）。
+4. Commit changes で確定。
+5. ブラウザのアドレスをコピーしてXの紹介文末尾に貼る。
+※ PRIVATEのZIPはアップロードしない。
